@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorSystem.Infrastructu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorSystem.Presentation", "ElevatorSystem.Presentation\ElevatorSystem.Presentation.csproj", "{6CAB7356-6EBA-4356-9AE1-874F4FEB40E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorSystem.Tests", "ElevatorSystem.Tests\ElevatorSystem.Tests.csproj", "{91FDAB18-62B9-4217-817A-489F8EC2A889}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{6CAB7356-6EBA-4356-9AE1-874F4FEB40E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CAB7356-6EBA-4356-9AE1-874F4FEB40E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CAB7356-6EBA-4356-9AE1-874F4FEB40E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FDAB18-62B9-4217-817A-489F8EC2A889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FDAB18-62B9-4217-817A-489F8EC2A889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FDAB18-62B9-4217-817A-489F8EC2A889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FDAB18-62B9-4217-817A-489F8EC2A889}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
